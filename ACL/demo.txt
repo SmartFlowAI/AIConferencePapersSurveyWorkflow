@@ -1,0 +1,38 @@
+Proofread: Fixes All Errors with One Tap
+Fundus: A Simple-to-Use News Scraper Optimized for High Quality Extractions
+AutoRE: Document-Level Relation Extraction with Large Language Models
+XNLP: An Interactive Demonstration System for Universal Structured NLP
+PyFoma: a Python finite-state compiler module
+BioLunar: Knowledge Synthesis and Scientific Reasoning Framework for Biomedical Discovery
+CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph
+OpenEval: Benchmarking Chinese LLMs across Capability, Alignment and Safety
+OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models
+CharPoet: A Chinese Classical Poetry Generation System Based on Token-free LLM
+LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models
+Variationist: Exploring Multifaceted Variation and Bias in Written Language Data
+VeraCT Scan: Retrieval-Augmented Fake News Detection with Justifiable Reasoning
+LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models
+BotEval: Facilitating Interactive Human Evaluation
+Wordflow: Social Prompt Engineering for Large Language Models
+LinkTransformer: A Unified Package for Record Linkage with Transformer Language Models
+JORA: JAX Tensor-Parallel LoRA Library for Retrieval Augmented Fine-Tuning
+GenGO: ACL Paper Explorer with Semantic Features
+OpenVNA: A Framework for Analyzing the Behavior of Multimodal Language Understanding System under Noisy Scenarios
+IMGTB: A Framework for Machine-Generated Text Detection Benchmarking
+NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing
+string2string: A Modern Python Library for String-to-String Algorithms
+PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud
+DocPilot: Copilot for Automating PDF Edit Workflows in Documents
+LocalRQA: From Generating Data to Locally Training, Testing, and Deploying Retrieval-Augmented QA Systems
+ITAKE: Interactive Unstructured Text Annotation and Knowledge Extraction System with LLMs and ModelOps
+UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs
+EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models
+SeaLLMs - Large Language Models for Southeast Asia
+LLMBox: A Comprehensive Library for Language Language Models
+LinguaLinked: Distributed Large Language Model Inference on Mobile Devices
+Towards the TopMost: A Topic Modeling System Toolkit
+ELLA: Empowering LLMs for Interpretable, Accurate  and Informative Legal Advice
+EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models
+DrugWatch: A Comprehensive Multi-Source Data Visualisation Platform for Drug Safety Information
+LEGENT: An Open Platform for Embodied Agent
+EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot
